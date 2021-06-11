@@ -6,9 +6,9 @@ I'm a software engineer passionate about building applications that bring unique
 
 I am currently seeking a new role to leverage my skills and make an impact within a company!
 
-## My tech stack
+## 💻 My tech stack
 
-### Frontend
+### 🎨🖌 Frontend
 
 ![](https://img.shields.io/badge/ReactJS-informational?style=flat&color=5ED4F3)
 ![](https://img.shields.io/badge/HTML-informational?style=flat&color=DD4B24)
@@ -18,7 +18,7 @@ I am currently seeking a new role to leverage my skills and make an impact withi
 ![](https://img.shields.io/badge/Jest-informational?style=flat&color=906F79)
 ![](https://img.shields.io/badge/Enzyme-informational?style=flat&color=2ECC71)
 
-### Backend
+### ➕➖ Backend
 
 ![](https://img.shields.io/badge/Node.js-informational?style=flat&color=74A95F)
 ![](https://img.shields.io/badge/Express-informational?style=flat&color=FFFFFF)
