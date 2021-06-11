@@ -20,11 +20,11 @@ I am currently seeking a new role to leverage my skills and make an impact withi
 
 ### Backend
 
-![](https://img.shields.io/badge/Node.js-informational?style=flat&color=2bbc8a)
-![](https://img.shields.io/badge/Express-informational?style=flat&color=2bbc8a)
-![](https://img.shields.io/badge/MySQL-informational?style=flat&color=2bbc8a)
-![](https://img.shields.io/badge/PostgreSQL-informational?style=flat&color=2bbc8a)
-![](https://img.shields.io/badge/MongoDB-informational?style=flat&color=2bbc8a)
+![](https://img.shields.io/badge/Node.js-informational?style=flat&color=74A95F)
+![](https://img.shields.io/badge/Express-informational?style=flat&color=FFFFFF)
+![](https://img.shields.io/badge/MySQL-informational?style=flat&color=DD8A00)
+![](https://img.shields.io/badge/PostgreSQL-informational?style=flat&color=31648C)
+![](https://img.shields.io/badge/MongoDB-informational?style=flat&color=439543)
 ![](https://img.shields.io/badge/AWS-informational?style=flat&color=2bbc8a)
 ![](https://img.shields.io/badge/Docker-informational?style=flat&color=2bbc8a)
 ![](https://img.shields.io/badge/Supertest-informational?style=flat&color=2bbc8a)
