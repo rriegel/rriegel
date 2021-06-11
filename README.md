@@ -10,7 +10,7 @@ I am currently seeking a new role to leverage my skills and make an impact withi
 
 ### 🎨🖌 Frontend
 
-![](https://img.shields.io/badge/ReactJS-informational?style=flat&color=5ED4F3 (https://reactjs.org/))
+![](https://img.shields.io/badge/ReactJS-informational?style=flat&color=5ED4F3)
 ![](https://img.shields.io/badge/HTML-informational?style=flat&color=DD4B24)
 ![](https://img.shields.io/badge/CSS-informational?style=flat&color=254ADD)
 ![](https://img.shields.io/badge/jQuery-informational?style=flat&color=0765A6)
