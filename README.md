@@ -11,12 +11,12 @@ I am currently seeking a new role to leverage my skills and make an impact withi
 ### Frontend
 
 ![](https://img.shields.io/badge/ReactJS-informational?style=flat&color=F7DC6F)
-![](https://img.shields.io/badge/HTML-informational?style=flat&color=2bbc8a)
-![](https://img.shields.io/badge/CSS-informational?style=flat&color=2bbc8a)
-![](https://img.shields.io/badge/jQuery-informational?style=flat&color=2bbc8a)
-![](https://img.shields.io/badge/Webpack/Babel-informational?style=flat&color=2bbc8a)
-![](https://img.shields.io/badge/Jest-informational?style=flat&color=2bbc8a)
-![](https://img.shields.io/badge/Enzyme-informational?style=flat&color=2bbc8a)
+![](https://img.shields.io/badge/HTML-informational?style=flat&color=E74C3C)
+![](https://img.shields.io/badge/CSS-informational?style=flat&color=5DADE2)
+![](https://img.shields.io/badge/jQuery-informational?style=flat&color=2471A3)
+![](https://img.shields.io/badge/Webpack/Babel-informational?style=flat&color=F1C40F)
+![](https://img.shields.io/badge/Jest-informational?style=flat&color=D98880)
+![](https://img.shields.io/badge/Enzyme-informational?style=flat&color=2ECC71)
 
 ### Backend
 
