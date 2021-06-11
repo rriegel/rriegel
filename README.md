@@ -6,9 +6,8 @@ I'm a software engineer passionate about building applications that bring unique
 
 I am currently seeking a new role to leverage my skills and make an impact within a company!
 
-## My tech stack includes
-### Languages
-JavaScript (ES6)
+## My tech stack
+
 ### Frontend
 ReactJS | HTML | CSS | jQuery | Webpack/Babel | Jest | Enzyme
 ### Backend
