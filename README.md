@@ -8,6 +8,12 @@ I am currently seeking a new role to leverage my skills and make an impact withi
 
 ## My tech stack
 ![](https://img.shields.io/badge/ReactJS-informational?style=flat&color=2bbc8a)
+![](https://img.shields.io/badge/HTML-informational?style=flat&color=2bbc8a)
+![](https://img.shields.io/badge/CSS-informational?style=flat&color=2bbc8a)
+![](https://img.shields.io/badge/jQuery-informational?style=flat&color=2bbc8a)
+![](https://img.shields.io/badge/Webpack/Babel-informational?style=flat&color=2bbc8a)
+![](https://img.shields.io/badge/Jest-informational?style=flat&color=2bbc8a)
+![](https://img.shields.io/badge/Enzyme-informational?style=flat&color=2bbc8a)
 ### Frontend
 ReactJS | HTML | CSS | jQuery | Webpack/Babel | Jest | Enzyme
 ### Backend
