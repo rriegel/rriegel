@@ -1,3 +1,5 @@
+[![Header](https://github.com/rriegel/rriegel/blob/main/githubCover.png "Header")]
+
 # Hi, I'm Ryan 👋🎧
 
 I'm a software engineer passionate about building applications that bring unique audio experiences to their users. I also enjoy finding fast and scalabale architecture solutions, building APIs, and creating user interfaces that elevate the user experience!
