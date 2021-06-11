@@ -13,7 +13,8 @@ ReactJS | HTML | CSS | jQuery | Webpack/Babel | Jest | Enzyme
 ### Backend
 Node.js | Express | SQL (MySQL and PostgreSQL) | NoSQL (MongoDB) | AWS | Docker | Supertest
 
-Fun Fact: In my free time I enjoy learning music theory and making my own music using FL Studio! To bridge my love for coding and music, I have been working with tone.js in my personal projects, which has been really fun to learn!
+### 🎧 Music Production:
+In my free time I enjoy learning music theory and making my own music using FL Studio! To bridge my love for coding and music, I have been working with tone.js in my personal projects, which has been really fun to learn!
 
 <!--
 **rriegel/rriegel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
