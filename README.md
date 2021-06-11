@@ -7,6 +7,9 @@ I'm a software engineer passionate about building applications that bring unique
 I am currently seeking a new role to leverage my skills and make an impact within a company!
 
 ## My tech stack
+
+### Frontend
+
 ![](https://img.shields.io/badge/ReactJS-informational?style=flat&color=2bbc8a)
 ![](https://img.shields.io/badge/HTML-informational?style=flat&color=2bbc8a)
 ![](https://img.shields.io/badge/CSS-informational?style=flat&color=2bbc8a)
@@ -14,10 +17,17 @@ I am currently seeking a new role to leverage my skills and make an impact withi
 ![](https://img.shields.io/badge/Webpack/Babel-informational?style=flat&color=2bbc8a)
 ![](https://img.shields.io/badge/Jest-informational?style=flat&color=2bbc8a)
 ![](https://img.shields.io/badge/Enzyme-informational?style=flat&color=2bbc8a)
-### Frontend
-ReactJS | HTML | CSS | jQuery | Webpack/Babel | Jest | Enzyme
+
 ### Backend
-Node.js | Express | SQL (MySQL and PostgreSQL) | NoSQL (MongoDB) | AWS | Docker | Supertest
+
+![](https://img.shields.io/badge/Node.js-informational?style=flat&color=2bbc8a)
+![](https://img.shields.io/badge/Express-informational?style=flat&color=2bbc8a)
+![](https://img.shields.io/badge/MySQL-informational?style=flat&color=2bbc8a)
+![](https://img.shields.io/badge/PostgreSQL-informational?style=flat&color=2bbc8a)
+![](https://img.shields.io/badge/MongoDB-informational?style=flat&color=2bbc8a)
+![](https://img.shields.io/badge/AWS-informational?style=flat&color=2bbc8a)
+![](https://img.shields.io/badge/Docker-informational?style=flat&color=2bbc8a)
+![](https://img.shields.io/badge/Supertest-informational?style=flat&color=2bbc8a)
 
 ### 🎧 Music Production:
 In my free time I enjoy learning music theory and making my own music using FL Studio! To bridge my love for coding and music, I have been working with tone.js in my personal projects, which has been really fun to learn!
