@@ -1,4 +1,4 @@
-[![Header](https://github.com/rriegel/rriegel/blob/main/githubCover.png "Header")]
+![Header](https://github.com/rriegel/rriegel/blob/main/githubCover.png "Header")
 
 # Hi, I'm Ryan 👋🎧
 
