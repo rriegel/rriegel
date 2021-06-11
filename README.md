@@ -14,8 +14,8 @@ I am currently seeking a new role to leverage my skills and make an impact withi
 ![](https://img.shields.io/badge/HTML-informational?style=flat&color=E74C3C)
 ![](https://img.shields.io/badge/CSS-informational?style=flat&color=5DADE2)
 ![](https://img.shields.io/badge/jQuery-informational?style=flat&color=2471A3)
-![](https://img.shields.io/badge/Webpack/Babel-informational?style=flat&color=F1C40F)
-![](https://img.shields.io/badge/Jest-informational?style=flat&color=D98880)
+![](https://img.shields.io/badge/Webpack/Babel-informational?style=flat&color=F8DB3F)
+![](https://img.shields.io/badge/Jest-informational?style=flat&color=906F79)
 ![](https://img.shields.io/badge/Enzyme-informational?style=flat&color=2ECC71)
 
 ### Backend
@@ -25,9 +25,9 @@ I am currently seeking a new role to leverage my skills and make an impact withi
 ![](https://img.shields.io/badge/MySQL-informational?style=flat&color=DD8A00)
 ![](https://img.shields.io/badge/PostgreSQL-informational?style=flat&color=31648C)
 ![](https://img.shields.io/badge/MongoDB-informational?style=flat&color=439543)
-![](https://img.shields.io/badge/AWS-informational?style=flat&color=2bbc8a)
-![](https://img.shields.io/badge/Docker-informational?style=flat&color=2bbc8a)
-![](https://img.shields.io/badge/Supertest-informational?style=flat&color=2bbc8a)
+![](https://img.shields.io/badge/AWS-informational?style=flat&color=FF9900)
+![](https://img.shields.io/badge/Docker-informational?style=flat&color=2491E6)
+![](https://img.shields.io/badge/Supertest-informational?style=flat&color=906F79)
 
 ### 🎧 Music Production:
 In my free time I enjoy learning music theory and making my own music using FL Studio! To bridge my love for coding and music, I have been working with tone.js in my personal projects, which has been really fun to learn!
