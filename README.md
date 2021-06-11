@@ -7,7 +7,7 @@ I'm a software engineer passionate about building applications that bring unique
 I am currently seeking a new role to leverage my skills and make an impact within a company!
 
 ## My tech stack
-![](https://img.shields.io/badge/ReactJS-HTML-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/logo-ReactJS-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 ### Frontend
 ReactJS | HTML | CSS | jQuery | Webpack/Babel | Jest | Enzyme
 ### Backend
