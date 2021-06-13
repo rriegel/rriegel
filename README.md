@@ -2,9 +2,9 @@
 
 # Hi, I'm Ryan 👋🎧
 
-I'm a software engineer passionate about building applications that bring unique audio experiences to their users. I also enjoy finding fast and scalabale architecture solutions, building APIs, and creating user interfaces that elevate the user experience!
+I am a software engineer experienced in designing and developing fast and scalable JavaScript applications. I excel in Agile workflow environments, refactoring, test-driven development, MVC architecture, building APIs, and creating/maintaining databases. In my experience working in different teams to develop full stack applications, I've been described as an understanding, productive and fun teammate!
 
-I am currently seeking a new role to leverage my skills and make an impact within a company!
+I'm excited to apply my passion for technology as I am actively seeking a new role within a company.
 
 ## 💻 My tech stack
 
