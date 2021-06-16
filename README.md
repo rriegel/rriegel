@@ -34,9 +34,9 @@ I'm excited to apply my passion for technology as I am actively seeking a new ro
 In my free time I enjoy learning music theory and making my own music using FL Studio! To bridge my love for coding and music, I have been working with 
 [![](https://img.shields.io/badge/tone.js-F734D7)](https://tonejs.github.io/) in my personal projects, which has been really fun to learn!
 
-[![Ryan's github stats](https://github-readme-stats.vercel.app/api?username=rriegel&theme=blue-green)](https://github.com/rriegel/github-readme-stats)
+[![Ryan's github stats](https://github-readme-stats.vercel.app/api?username=rriegel&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Ryan's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rriegel&theme=blue-green)](https://github.com/rriegel/github-readme-stats)
+[![Ryan's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rriegel&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
