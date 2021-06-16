@@ -36,6 +36,8 @@ In my free time I enjoy learning music theory and making my own music using FL S
 
 [![Ryan's github stats](https://github-readme-stats.vercel.app/api?username=rriegel&theme=blue-green)](https://github.com/rriegel/github-readme-stats)
 
+[![Ryan's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rriegel&theme=blue-green)](https://github.com/rriegel/github-readme-stats)
+
 
 <!--
 **rriegel/rriegel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
