@@ -10,25 +10,25 @@ I'm excited to apply my passion for technology as I am actively seeking a new ro
 
 ### 🎨🖌 Frontend
 
-[![](https://img.shields.io/badge/ReactJS-61DAFB?logo=react&logoColor=white)](https://reactjs.org/)
-[![](https://img.shields.io/badge/HTML-DD4B24?logo=HTML5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
-[![](https://img.shields.io/badge/CSS-254ADD?logo=CSS3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
-[![](https://img.shields.io/badge/jQuery-0765A6?logo=jQuery&logoColor=white)](https://jquery.com/)
-[![](https://img.shields.io/badge/Webpack-539AC8?logo=webpack&logoColor=white)](https://webpack.js.org/)
-[![](https://img.shields.io/badge/Babel-F9DC3F)](https://babeljs.io/)
-[![](https://img.shields.io/badge/Jest-906F79)](https://jestjs.io/)
-[![](https://img.shields.io/badge/Enzyme-2ECC71)](https://enzymejs.github.io/enzyme/)
+[![](https://img.shields.io/badge/ReactJS-61DAFB?logo=react&logoColor=white&style=for-the-badge)](https://reactjs.org/)
+[![](https://img.shields.io/badge/HTML-DD4B24?logo=HTML5&logoColor=white&style=for-the-badge)](https://developer.mozilla.org/en-US/docs/Web/HTML)
+[![](https://img.shields.io/badge/CSS-254ADD?logo=CSS3&logoColor=white&style=for-the-badge)](https://developer.mozilla.org/en-US/docs/Web/CSS)
+[![](https://img.shields.io/badge/jQuery-0765A6?logo=jQuery&logoColor=white&style=for-the-badge)](https://jquery.com/)
+[![](https://img.shields.io/badge/Webpack-539AC8?logo=webpack&logoColor=white&style=for-the-badge)](https://webpack.js.org/)
+[![](https://img.shields.io/badge/Babel-F9DC3F?logo=babel&logoColor=white&style=for-the-badge)](https://babeljs.io/)
+[![](https://img.shields.io/badge/Jest-906F79?logo=jest&logoColor=white&style=for-the-badge)](https://jestjs.io/)
+[![](https://img.shields.io/badge/Enzyme-2ECC71?logo=enzyme&logoColor=white&style=for-the-badge)](https://enzymejs.github.io/enzyme/)
 
 ### ➕➖ Backend
 
-[![](https://img.shields.io/badge/Node.js-43853D?logo=node.js&logoColor=white)](https://nodejs.org/)
-[![](https://img.shields.io/badge/Express-FFFFFF?logo=express&logoColor=black)](https://expressjs.com/)
-[![](https://img.shields.io/badge/MySQL-DD8A00?logo=mysql&logoColor=white)](https://www.mysql.com/)
-[![](https://img.shields.io/badge/PostgreSQL-31648C?logo=postgres&logoColor=white)](https://www.postgresql.org/)
-[![](https://img.shields.io/badge/MongoDB-439543?logo=mongodb&logoColor=white)](https://www.mongodb.com/)
-[![](https://img.shields.io/badge/AWS-FF9900?logo=aws&logoColor=white)](https://aws.amazon.com/)
-[![](https://img.shields.io/badge/Docker-2491E6?logo=docker&logoColor=white)](https://www.docker.com/)
-[![](https://img.shields.io/badge/Supertest-906F79?logo=supertest&logoColor=white)](https://www.npmjs.com/package/supertest)
+[![](https://img.shields.io/badge/Node.js-43853D?logo=node.js&logoColor=white&style=for-the-badge)](https://nodejs.org/)
+[![](https://img.shields.io/badge/Express-FFFFFF?logo=express&logoColor=black&style=for-the-badge)](https://expressjs.com/)
+[![](https://img.shields.io/badge/MySQL-DD8A00?logo=mysql&logoColor=white&style=for-the-badge)](https://www.mysql.com/)
+[![](https://img.shields.io/badge/PostgreSQL-31648C?logo=postgresql&logoColor=white&style=for-the-badge)](https://www.postgresql.org/)
+[![](https://img.shields.io/badge/MongoDB-439543?logo=mongodb&logoColor=white&style=for-the-badge)](https://www.mongodb.com/)
+[![](https://img.shields.io/badge/AWS-FF9900?logo=aws&logoColor=white&style=for-the-badge)](https://aws.amazon.com/)
+[![](https://img.shields.io/badge/Docker-2491E6?logo=docker&logoColor=white&style=for-the-badge)](https://www.docker.com/)
+[![](https://img.shields.io/badge/Supertest-906F79?logo=jest&logoColor=white&style=for-the-badge)](https://www.npmjs.com/package/supertest)
 
 ### 🎧 Music Production:
 In my free time I enjoy learning music theory and making my own music using FL Studio! To bridge my love for coding and music, I have been working with 
