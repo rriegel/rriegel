@@ -21,7 +21,7 @@ I'm excited to apply my passion for technology as I am actively seeking a new ro
 
 ### ➕➖ Backend
 
-[![](https://img.shields.io/badge/Node.js-74A95F)](https://nodejs.org/)
+[![](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/)
 [![](https://img.shields.io/badge/Express-FFFFFF)](https://expressjs.com/)
 [![](https://img.shields.io/badge/MySQL-DD8A00)](https://www.mysql.com/)
 [![](https://img.shields.io/badge/PostgreSQL-31648C)](https://www.postgresql.org/)
