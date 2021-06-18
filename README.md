@@ -23,12 +23,12 @@ I'm excited to apply my passion for technology as I am actively seeking a new ro
 
 [![](https://img.shields.io/badge/Node.js-43853D?logo=node.js&logoColor=white)](https://nodejs.org/)
 [![](https://img.shields.io/badge/Express-FFFFFF?logo=express&logoColor=black)](https://expressjs.com/)
-[![](https://img.shields.io/badge/MySQL-DD8A00)](https://www.mysql.com/)
-[![](https://img.shields.io/badge/PostgreSQL-31648C)](https://www.postgresql.org/)
-[![](https://img.shields.io/badge/MongoDB-439543)](https://www.mongodb.com/)
-[![](https://img.shields.io/badge/AWS-FF9900)](https://aws.amazon.com/)
-[![](https://img.shields.io/badge/Docker-2491E6)](https://www.docker.com/)
-[![](https://img.shields.io/badge/Supertest-906F79)](https://www.npmjs.com/package/supertest)
+[![](https://img.shields.io/badge/MySQL-DD8A00?logo=mysql&logoColor=white)](https://www.mysql.com/)
+[![](https://img.shields.io/badge/PostgreSQL-31648C?logo=postgres&logoColor=white)](https://www.postgresql.org/)
+[![](https://img.shields.io/badge/MongoDB-439543?logo=mongodb&logoColor=white)](https://www.mongodb.com/)
+[![](https://img.shields.io/badge/AWS-FF9900?logo=aws&logoColor=white)](https://aws.amazon.com/)
+[![](https://img.shields.io/badge/Docker-2491E6?logo=docker&logoColor=white)](https://www.docker.com/)
+[![](https://img.shields.io/badge/Supertest-906F79?logo=supertest&logoColor=white)](https://www.npmjs.com/package/supertest)
 
 ### 🎧 Music Production:
 In my free time I enjoy learning music theory and making my own music using FL Studio! To bridge my love for coding and music, I have been working with 
