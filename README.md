@@ -10,7 +10,7 @@ I'm excited to apply my passion for technology as I am actively seeking a new ro
 
 ### 🎨🖌 Frontend
 
-[![javascipt](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge)](https://www.javascript.com/)
+[![](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge)](https://www.javascript.com/)
 [![](https://img.shields.io/badge/ReactJS-61DAFB?logo=react&logoColor=white&style=for-the-badge)](https://reactjs.org/)
 [![](https://img.shields.io/badge/HTML-DD4B24?logo=HTML5&logoColor=white&style=for-the-badge)](https://developer.mozilla.org/en-US/docs/Web/HTML)
 [![](https://img.shields.io/badge/CSS-254ADD?logo=CSS3&logoColor=white&style=for-the-badge)](https://developer.mozilla.org/en-US/docs/Web/CSS)
