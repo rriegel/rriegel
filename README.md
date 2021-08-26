@@ -4,11 +4,13 @@
 
 I am a software engineer experienced in designing and developing fast and scalable JavaScript applications. I excel in Agile workflow environments, refactoring, test-driven development, MVC architecture, building APIs, and creating/maintaining databases. In my experience working in different teams to develop full stack applications, I've been described as an understanding, productive and fun teammate!
 
-My latest projects have included:
-- studying and practicing leetcode-style data structures and algorithm problems
+I am currently seeking a new role to leverage my skills and make an impact within a company!
+
+## My latest projects have included
+
+- practicing leetcode-style data structures and algorithm problems
 - creating frontend projects to solidify and expand HTML, CSS and React skills
 
-I am currently seeking a new role to leverage my skills and make an impact within a company!
 
 ## 💻 My tech stack
 
