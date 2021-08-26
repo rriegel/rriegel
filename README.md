@@ -6,7 +6,7 @@ I am a software engineer experienced in designing and developing fast and scalab
 
 I am currently seeking a new role to leverage my skills and make an impact within a company!
 
-## My latest projects have included
+## My latest projects
 
 - practicing leetcode-style data structures and algorithm problems
 - creating frontend projects to solidify and expand HTML, CSS and React skills
