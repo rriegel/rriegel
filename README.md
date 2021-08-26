@@ -4,6 +4,10 @@
 
 I'm a software engineer passionate about building applications that bring unique audio experiences to their users. I also enjoy finding fast and scalabale architecture solutions, building APIs, and creating user interfaces that elevate the user experience!
 
+My latest projects have included:
+- studying and practicing leetcode-style data structures and algorithm problems
+- creating frontend projects to solidify and expand HTML, CSS and React skills
+
 I am currently seeking a new role to leverage my skills and make an impact within a company!
 
 ## My tech stack
