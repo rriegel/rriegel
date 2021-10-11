@@ -8,8 +8,9 @@ I am currently seeking a new role to leverage my skills and make an impact withi
 
 ## My latest projects
 
-- practicing leetcode-style data structures and algorithm problems
-- creating frontend projects to solidify and expand HTML, CSS and React skills
+- developing an application to visualize COVID-19 data using React, Node, HTML/CSS and Chart.js
+- practicing leetcode-style data structures and algorithms
+- contributing to cool open source projects
 
 
 ## 💻 My tech stack
