@@ -6,11 +6,12 @@ I am a software engineer experienced in designing and developing fast and scalab
 
 I am currently seeking a new role to leverage my skills and make an impact within a company!
 
-## My latest projects
+## 📁📂 My latest projects
 
-- developing an application to visualize COVID-19 data using React, Node, HTML/CSS and Chart.js
+- developing an app to visualize COVID-19 data using React, Node, HTML/CSS and Chart.js
+- building the UI of Reactive Audio - a music sequencer app
 - practicing leetcode-style data structures and algorithms
-- contributing to cool open source projects
+- contributing to open source
 
 
 ## 💻 My tech stack
@@ -40,7 +41,7 @@ I am currently seeking a new role to leverage my skills and make an impact withi
 
 ### 🎧 Music Production:
 In my free time I enjoy learning music theory and making my own music using FL Studio! To bridge my love for coding and music, I have been working with
-[![](https://img.shields.io/badge/tone.js-F734D7?style=for-the-badge)](https://tonejs.github.io/) in my personal projects, which has been really fun to learn!
+[![](https://img.shields.io/badge/tone.js-F734D7?style=for-the-badge)](https://tonejs.github.io/) in my personal projects.
 
 [![Ryan's github stats](https://github-readme-stats.vercel.app/api?username=rriegel&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
 
