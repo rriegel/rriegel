@@ -4,8 +4,6 @@
 
 I am a software engineer experienced in designing and developing fast and scalable JavaScript applications. I excel in Agile workflow environments, refactoring, test-driven development, MVC architecture, building APIs, and creating/maintaining databases. In my experience working in different teams to develop full stack applications, I've been described as an understanding, productive and fun teammate!
 
-I am currently seeking a new role to leverage my skills and make an impact within a company!
-
 ## 📁📂 My latest projects
 
 - developing an app to visualize COVID-19 data using React, Node, HTML/CSS and Chart.js
