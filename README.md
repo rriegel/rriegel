@@ -29,6 +29,10 @@ I am a Full Stack Software Engineer at Seisan Consulting where I make significan
 [![Jest](https://img.shields.io/badge/Jest-906F79?logo=jest&logoColor=white&style=for-the-badge)](https://jestjs.io/)
 [![Enzyme](https://img.shields.io/badge/Enzyme-2ECC71?style=for-the-badge)](https://enzymejs.github.io/enzyme/)
 
+### 📱🖌 Mobile
+[![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?logo=Kotlin&logoColor=white&style=for-the-badge)](https://kotlinlang.org/)
+[![Swift](https://img.shields.io/badge/Swift-FD6431?logo=Swift&logoColor=FFF&style=for-the-badge)](https://developer.apple.com/swift/)
+
 ### ➕➖ Backend
 
 [![Node.js](https://img.shields.io/badge/Node.js-43853D?logo=node.js&logoColor=white&style=for-the-badge)](https://nodejs.org/)
