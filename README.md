@@ -2,14 +2,14 @@
 
 # Hi, I'm Ryan 👋🎧
 
-I am a software engineer experienced in designing and developing fast and scalable JavaScript applications. I excel in Agile workflow environments, refactoring, test-driven development, MVC architecture, building APIs, and creating/maintaining databases. In my experience working in different teams to develop full stack applications, I've been described as an understanding, productive and fun teammate!
+I am a Full Stack Software Engineer at Seisan Consulting where I make significant contributions to a wide array of projects. I excel in developing rich user interfaces, optimizing user experience, implementing MVC architecture, building robust APIs, thriving in Agile workflow environments and creating/maintaining databases. Across the various teams I've worked with, I've been consistently described as an understanding, productive and reliable teammate.
 
 ## 📁📂 My latest projects
 
-- developing an app to visualize COVID-19 data using React, Node, HTML/CSS and Chart.js
-- building the UI of Reactive Audio - a music sequencer app
+- expanding into native iOS and Android development
+- revamping my portfolio website
+- designing and building a music streaming website which I'm really excited about
 - practicing leetcode-style data structures and algorithms
-- contributing to open source
 
 
 ## 💻 My tech stack
