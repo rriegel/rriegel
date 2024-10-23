@@ -48,7 +48,7 @@ I am a Full Stack Software Engineer at Seisan Consulting where I make significan
 In my free time I enjoy learning music theory and making my own music using FL Studio! To bridge my love for coding and music, I have been working with
 [![tone.js](https://img.shields.io/badge/tone.js-F734D7?style=for-the-badge)](https://tonejs.github.io/) in my personal projects.
 
-[![Ryan's github stats](https://github-readme-stats.vercel.app/api?username=rriegel&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
+<!-- [![Ryan's github stats](https://github-readme-stats.vercel.app/api?username=rriegel&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats) -->
 
 [![Ryan's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rriegel&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
 
