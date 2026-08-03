@@ -2,7 +2,9 @@
 
 # Hi, I'm Ryan 👋🎧
 
-I'm a Full Stack Software Engineer at [Finalsite](https://www.finalsite.com/), where I build and scale products used by thousands of schools worldwide. I'm the primary Frontend Engineer behind **Finalsite Payments**, where I work closely with the design team and backend team as we lead a critical company initiative. Outside of payments work, I drive architecture decisions for app server autoscaling infrastructure and help my team achieve **99.98% uptime**. I also led fullstack features like our integration with Clarity Financial Aid and parent-facing geolocation mapping functionality.
+I'm a Full Stack Software Engineer at [Finalsite](https://www.finalsite.com/), where I build and scale products used by thousands of schools worldwide.
+I'm the primary Frontend Engineer behind **Finalsite Pay**, where I work closely with the design team and backend team as we lead a critical company initiative.
+Additionally, I have driven architecture decisions for our production infrastructure. For example, I have led app server autoscaling and New Relic monitoring initiatives. I also led fullstack features like our team's integration with Clarity Financial Aid and parent-facing geolocation mapping functionality.
 
 Previously, I spent three years at Seisan Consulting shipping enterprise Java systems, MERN-stack products, and data pipelines that reduced processing time by 65%.
 
@@ -63,7 +65,7 @@ I'm a TDD advocate, I mentor peers, and I love to build expertise across the sta
 
 ## 🎧 Beyond Code
 
-I'm a runner, cyclist, and music producer. I studied Biology at Slippery Rock University and trained as a software engineer at Hack Reactor. Before coding, I worked on hearing and balance research at Johns Hopkins.
+I'm a runner, cyclist, and music producer. I studied Biology at Slippery Rock University and trained as a Software Engineer at Hack Reactor. Before coding, I worked on hearing and balance research at Johns Hopkins.
 
 [![Ryan's GitHub stats](https://github-readme-stats.vercel.app/api?username=rriegel&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
 [![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rriegel&theme=blue-green&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
