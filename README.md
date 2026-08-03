@@ -67,7 +67,8 @@ I'm a TDD advocate, I mentor peers, and I love to build expertise across the sta
 
 I'm a runner, cyclist, and music producer. I studied Biology at Slippery Rock University and trained as a Software Engineer at Hack Reactor. Before coding, I worked on hearing and balance research at Johns Hopkins.
 
-[![Ryan's GitHub stats](https://github-stats-extended.vercel.app/api?username=rriegel)]
+[![Ryan's GitHub stats](https://github-stats-extended.vercel.app/api?username=rriegel)](https://github.com/stats-organization/github-stats-extended)
+
 [![Top languages](https://github-stats-extended.vercel.app/api/top-langs/?username=rriegel&theme=blue-green&layout=compact)](https://github.com/stats-organization/github-stats-extended)
 
 ---
