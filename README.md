@@ -67,9 +67,9 @@ I'm a TDD advocate, I mentor peers, and I love to build expertise across the sta
 
 I'm a runner, cyclist, and music producer. I studied Biology at Slippery Rock University and trained as a Software Engineer at Hack Reactor. Before coding, I worked on hearing and balance research at Johns Hopkins.
 
-[![Ryan's GitHub stats](https://github-stats-extended.vercel.app/api?username=rriegel&show_icons=true&theme=calm&rank_icon=github&include_all_commits=true&custom_title=Anurag's+Stats&disable_animations=true&number_format=long&show=prs_merged_percentage,prs_reviewed)](https://github.com/stats-organization/github-stats-extended)
+[![Ryan's GitHub stats](https://github-stats-extended.vercel.app/api?username=rriegel&show_icons=true&theme=calm&rank_icon=github&include_all_commits=true&custom_title=Ryan's+Stats&disable_animations=true&number_format=long&show=prs_merged_percentage,prs_reviewed)](https://github.com/stats-organization/github-stats-extended)
 
-[![Top languages](https://github-stats-extended.vercel.app/api/top-langs/?username=rriegel&show_icons=true&theme=calm&rank_icon=github&include_all_commits=true&custom_title=Anurag's+Stats&disable_animations=true&number_format=long&show=prs_merged_percentage,prs_reviewed)](https://github.com/stats-organization/github-stats-extended)
+[![Top languages](https://github-stats-extended.vercel.app/api/top-langs/?username=rriegel&show_icons=true&theme=calm&rank_icon=github&include_all_commits=true&custom_title=Ryan's+Top+Languages&disable_animations=true&number_format=long&show=prs_merged_percentage,prs_reviewed)](https://github.com/stats-organization/github-stats-extended)
 
 ---
 
