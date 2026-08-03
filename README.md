@@ -2,68 +2,72 @@
 
 # Hi, I'm Ryan 👋🎧
 
-I am a Full Stack Software Engineer at Seisan Consulting where I make significant contributions to a wide array of projects. I excel in developing rich user interfaces, optimizing user experience, implementing MVC architecture, building robust APIs, thriving in Agile workflow environments and creating/maintaining databases. Across the various teams I've worked with, I've been consistently described as an understanding, productive and reliable teammate.
+I'm a Full Stack Software Engineer at [Finalsite](https://www.finalsite.com/), where I build and scale products used by thousands of schools worldwide. I'm the primary Frontend Engineer behind **Finalsite Payments**, where I work closely with the design team and backend team as we lead a critical company initiative. Outside of payments work, I drive architecture decisions for app server autoscaling infrastructure and help my team achieve **99.98% uptime**. I also led fullstack features like our integration with Clarity Financial Aid and parent-facing geolocation mapping functionality.
 
-## 📁📂 My latest projects
+Previously, I spent three years at Seisan Consulting shipping enterprise Java systems, MERN-stack products, and data pipelines that reduced processing time by 65%.
 
-- expanding into native iOS and Android development
-- revamping my portfolio website
-- designing and building a music streaming website which I'm really excited about
-- practicing leetcode-style data structures and algorithms
+I'm a TDD advocate, I mentor peers, and I love to build expertise across the stack and explore new technologies.
 
+## 🔭 What I'm working on
 
-## 💻 My tech stack
+- **Portfolio v2** — serverless site on AWS (S3 + CloudFront + Lambda + API Gateway + SES), deployed with Terraform and GitHub Actions CI/CD
+- **AI-augmented workflows** — I enjoy exploring the capabilities of agentic AI and LLMs for prototyping, bridging knowledge gaps and aiding production workflows
+- **Self-hosted enthusiast** - hosting my own applications and FOSS helps me learn more about container orchestration, operating systems and networking
+- **Music production** — bridging code and audio with [tone.js](https://tonejs.github.io/) and FL Studio
 
-### 🎨🖌 Frontend
+## 💻 Tech Stack
 
-[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge)](https://www.javascript.com/)
+### 🎨 Frontend
+
 [![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=TypeScript&logoColor=FFF&style=for-the-badge)](https://www.typescriptlang.org/)
 [![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=white&style=for-the-badge)](https://reactjs.org/)
-[![NextJS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)](https://nextjs.org/)
-[![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=material-ui&logoColor=white)](https://mui.com/)
+[![Next.js](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)](https://nextjs.org/)
 [![HTML5](https://img.shields.io/badge/HTML-DD4B24?logo=HTML5&logoColor=white&style=for-the-badge)](https://developer.mozilla.org/en-US/docs/Web/HTML)
 [![CSS3](https://img.shields.io/badge/CSS-254ADD?logo=CSS3&logoColor=white&style=for-the-badge)](https://developer.mozilla.org/en-US/docs/Web/CSS)
-[![jQuery](https://img.shields.io/badge/jQuery-0765A6?logo=jQuery&logoColor=white&style=for-the-badge)](https://jquery.com/)
-[![Webpack](https://img.shields.io/badge/Webpack-539AC8?logo=webpack&logoColor=white&style=for-the-badge)](https://webpack.js.org/)
-[![Babel](https://img.shields.io/badge/Babel-F9DC3F?logo=babel&logoColor=black&style=for-the-badge)](https://babeljs.io/)
-[![Jest](https://img.shields.io/badge/Jest-906F79?logo=jest&logoColor=white&style=for-the-badge)](https://jestjs.io/)
-[![Enzyme](https://img.shields.io/badge/Enzyme-2ECC71?style=for-the-badge)](https://enzymejs.github.io/enzyme/)
+[![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=material-ui&logoColor=white)](https://mui.com/)
 
-### 📱🖌 Mobile
-[![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?logo=Kotlin&logoColor=white&style=for-the-badge)](https://kotlinlang.org/)
-[![Swift](https://img.shields.io/badge/Swift-FD6431?logo=Swift&logoColor=FFF&style=for-the-badge)](https://developer.apple.com/swift/)
+### ⚙️ Backend
 
-### ➕➖ Backend
-
+[![Ruby](https://img.shields.io/badge/Ruby-CC342D?logo=ruby&logoColor=white&style=for-the-badge)](https://www.ruby-lang.org/)
+[![Rails](https://img.shields.io/badge/Rails-CC0000?logo=ruby-on-rails&logoColor=white&style=for-the-badge)](https://rubyonrails.org/)
 [![Node.js](https://img.shields.io/badge/Node.js-43853D?logo=node.js&logoColor=white&style=for-the-badge)](https://nodejs.org/)
-[![ExpressJS](https://img.shields.io/badge/Express-FFFFFF?logo=express&logoColor=black&style=for-the-badge)](https://expressjs.com/)
-[![MySQL](https://img.shields.io/badge/MySQL-DD8A00?logo=mysql&logoColor=white&style=for-the-badge)](https://www.mysql.com/)
+[![Java](https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white&style=for-the-badge)](https://openjdk.org/)
+[![Spring](https://img.shields.io/badge/Spring-6DB33F?logo=spring&logoColor=white&style=for-the-badge)](https://spring.io/)
+[![Express](https://img.shields.io/badge/Express-FFFFFF?logo=express&logoColor=black&style=for-the-badge)](https://expressjs.com/)
+
+### 🗄️ Databases
+
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-31648C?logo=postgresql&logoColor=white&style=for-the-badge)](https://www.postgresql.org/)
+[![MySQL](https://img.shields.io/badge/MySQL-DD8A00?logo=mysql&logoColor=white&style=for-the-badge)](https://www.mysql.com/)
 [![MongoDB](https://img.shields.io/badge/MongoDB-439543?logo=mongodb&logoColor=white&style=for-the-badge)](https://www.mongodb.com/)
+
+### ☁️ Infrastructure & DevOps
+
 [![AWS](https://img.shields.io/badge/AWS-FF9900?logo=amazon&logoColor=white&style=for-the-badge)](https://aws.amazon.com/)
+[![Terraform](https://img.shields.io/badge/Terraform-7B42BC?logo=terraform&logoColor=white&style=for-the-badge)](https://www.terraform.io/)
 [![Docker](https://img.shields.io/badge/Docker-2491E6?logo=docker&logoColor=white&style=for-the-badge)](https://www.docker.com/)
-[![Supertest](https://img.shields.io/badge/Supertest-906F79?style=for-the-badge)](https://www.npmjs.com/package/supertest)
+[![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?logo=github-actions&logoColor=white&style=for-the-badge)](https://github.com/features/actions)
+[![Chef](https://img.shields.io/badge/Chef-04B3E3?logo=chef&logoColor=white&style=for-the-badge)](https://www.chef.io/)
 
-### 🎧 Music Production:
-In my free time I enjoy learning music theory and making my own music using FL Studio! To bridge my love for coding and music, I have been working with
-[![tone.js](https://img.shields.io/badge/tone.js-F734D7?style=for-the-badge)](https://tonejs.github.io/) in my personal projects.
+### 📊 Monitoring & Testing
 
-<!-- [![Ryan's github stats](https://github-readme-stats.vercel.app/api?username=rriegel&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats) -->
+[![Datadog](https://img.shields.io/badge/Datadog-632CA6?logo=datadog&logoColor=white&style=for-the-badge)](https://www.datadoghq.com/)
+[![New Relic](https://img.shields.io/badge/New_Relic-008C99?logo=newrelic&logoColor=white&style=for-the-badge)](https://newrelic.com/)
+[![Kibana](https://img.shields.io/badge/Kibana-005571?logo=kibana&logoColor=white&style=for-the-badge)](https://www.elastic.co/kibana/)
+[![Jest](https://img.shields.io/badge/Jest-906F79?logo=jest&logoColor=white&style=for-the-badge)](https://jestjs.io/)
 
-[![Ryan's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rriegel&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
+### 🤖 AI-Augmented Development
 
+[![Claude](https://img.shields.io/badge/Claude-D97757?logo=anthropic&logoColor=white&style=for-the-badge)](https://www.anthropic.com/)
+[![LLM Prompt Engineering](https://img.shields.io/badge/LLM_Prompt_Engineering-4B32C3?logo=openai&logoColor=white&style=for-the-badge)](https://platform.openai.com/)
 
-<!--
-**rriegel/rriegel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🎧 Beyond Code
 
-Here are some ideas to get you started:
+I'm a runner, cyclist, and music producer. I studied Biology at Slippery Rock University and trained as a software engineer at Hack Reactor. Before coding, I worked on hearing and balance research at Johns Hopkins.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Ryan's GitHub stats](https://github-readme-stats.vercel.app/api?username=rriegel&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
+[![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rriegel&theme=blue-green&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+---
+
+📫 **Get in touch:** [LinkedIn](https://www.linkedin.com/in/ryanjriegel/) · [GitHub](https://github.com/rriegel)
