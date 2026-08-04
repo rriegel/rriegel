@@ -8,7 +8,7 @@ Previously, I spent three years at Seisan Consulting shipping enterprise Java sy
 
 I'm a TDD advocate, I mentor peers, and I love to build expertise across the stack and explore new technologies.
 
-📫 **Get in touch:** [LinkedIn](https://www.linkedin.com/in/ryanjriegel/) | [GitHub](https://github.com/rriegel) | [ryan.j.riegel@gmail.com](mailto:ryan.j.riegel@gmail.com)
+📫 **Get in touch:** [ryan.j.riegel@gmail.com](mailto:ryan.j.riegel@gmail.com) | [LinkedIn](https://www.linkedin.com/in/ryanjriegel/)
 
 ## 🔭 What I'm working on
 
