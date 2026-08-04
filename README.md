@@ -1,5 +1,3 @@
-![Header](https://github.com/rriegel/rriegel/blob/main/githubCover2.png "Header")
-
 # Hi, I'm Ryan 👋🎧
 
 I'm a Full Stack Software Engineer at [Finalsite](https://www.finalsite.com/), where I build and scale products used by thousands of schools worldwide.
@@ -12,10 +10,10 @@ I'm a TDD advocate, I mentor peers, and I love to build expertise across the sta
 
 ## 🔭 What I'm working on
 
-- **Portfolio v2** — serverless site on AWS (S3 + CloudFront + Lambda + API Gateway + SES), deployed with Terraform and GitHub Actions CI/CD
-- **AI-augmented workflows** — I enjoy exploring the capabilities of agentic AI and LLMs for prototyping, bridging knowledge gaps and aiding production workflows
+- **Portfolio v2** -  serverless site on AWS (S3 + CloudFront + Lambda + API Gateway + SES), deployed with Terraform and GitHub Actions CI/CD
+- **AI-augmented workflows** - I enjoy exploring the capabilities of agentic AI and LLMs for prototyping, bridging knowledge gaps and aiding production workflows
 - **Self-hosted enthusiast** - hosting my own applications and FOSS helps me learn more about container orchestration, operating systems and networking
-- **Music production** — bridging code and audio with [tone.js](https://tonejs.github.io/) and FL Studio
+- **Music production** - bridging code and audio with [tone.js](https://tonejs.github.io/) and FL Studio
 
 ## 💻 Tech Stack
 
@@ -73,4 +71,4 @@ I'm a runner, cyclist, and music producer. I studied Biology at Slippery Rock Un
 
 ---
 
-📫 **Get in touch:** [LinkedIn](https://www.linkedin.com/in/ryanjriegel/) · [GitHub](https://github.com/rriegel)
+📫 **Get in touch:** [LinkedIn](https://www.linkedin.com/in/ryanjriegel/) | [GitHub](https://github.com/rriegel) | [ryan.j.riegel@gmail.com](mailto:ryan.j.riegel@gmail.com)
